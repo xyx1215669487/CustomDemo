@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 604 -->
+<resources>
+    <color name="transparent_00000000">#40000000</color>
+    <color name="main_text_color">#808080</color>
+    <color name="gray_text">#B2B2B2</color>
+    <color name="hint_color">#CDCDCD</color>
+    <color name="orange">#FF7633</color>
+    <color name="black2">#323232</color>
+    <color name="black3">#232323</color>
+    <!-- 验证码背景橘黄色 -->
+    <color name="code_bg">#f95812</color>
+    <!--标题栏颜色-->
+    <color name="main_title_color">#F35D20</color>
+    <color name="title_black_color">#3C3C3C</color>
+    <color name="title_assets_color">#f7f7f7</color>
+    <!-- vierpage颜色-->
+    <color name="main_content_color">#ff7633</color>
+    <color name="main_content_color2">#8a8a8a</color>
+
+    <color name="light_blue">#6593cb</color>
+    <color name="light_blue2">#00B9FF</color>
+    <color name="light_gray">#888888</color>
+    <color name="lightGrayTransparent">#aaffffff</color>
+    <color name="light_gray3">#B5B5B5</color>
+    <color name="light_gray4">#D5D5D5</color>
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_gray2">#eeeeee</color>
+    <color name="transparent_gray">#88fefefe</color>
+    <color name="transparent_black">#aa000000</color>
+    <color name="transparent_yidao">#bb000000</color>
+    <color name="transparent_lightblack">#aa000000</color>
+    <color name="tab_red">#FC5B3D</color>
+    <color name="tab_red2">#FF4B4D</color>
+    <color name="light_gray5">#dddddd</color>
+    <color name = "freefish_gray">#f1f1f1</color>
+    <color name = "freefish_gray2">#f7f7f7</color>
+    <!-- 	621 -->
+    <!-- 橘色 -->
+    <color name="base_color_orange">#FFBC01</color>
+    <color name="dark_orange">#FC5B3D</color>
+    <color name="textColor_orange">#fea963</color>
+
+
+    <!-- 图形解锁用到颜色 -->
+    <color name="gesture_background">#f8f8f8</color>
+    <color name="gesture_bg">#393943</color>
+    <color name="gesture_text_gray">#d3d4d7</color>
+    <color name="color_hei_8">#ff7633</color>
+    <color name="color_text_gr">#898989</color>
+    <color name="banner_blue">#ff7633</color>
+    <color name="gesture_text_wrong_red">#ff0606</color>
+    <color name="gesture_text_wrong_red2">#ff3131</color>
+    <color name="text_dark_orange">#FC5B3D</color>
+
+    <drawable name="trans">@color/color_hei_8</drawable>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_grey_bbbbbbb">#bbb</color>
+
+
+
+    <!--  年账户页面 -->
+    <color name="yearaccount_textcolor">#ababab</color>
+    <color name="yearaccount_gray">#f7f5f5</color>
+
+
+    <!--公告的页面-->
+    <color name="gonggao_readed">#b9b6b6</color>
+    <color name="gonggao_split">#f9f7f7</color>
+
+    <!--我的地址-->
+
+    <color name="address_text_coclr">#323232</color>
+    <color name="address_text_tianmao_prise">#999999</color>
+
+    <!--年账户转让-->
+    <color name="detail_transfer_gray">#666666</color>
+    <color name="detail_transfer_blue">#0083FF</color>
+
+    <!--首页下拉刷新背景色-->
+    <color name="home_refresh_bg">#ee522a</color>
+
+    <!--更多-->
+    <color name="user_bankColor_text">#0087FF</color>
+    <color name="user_line">#DDD</color>
+
+</resources>
